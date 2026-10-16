@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+instance/
+static/uploads/*
+!static/uploads/.gitkeep
+static/qrcodes/*
+!static/qrcodes/.gitkeep
